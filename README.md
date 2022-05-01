@@ -21,4 +21,6 @@ During the Vacation Search part of this analysis, I refined the data I was pulli
 
 During the Vacation Itinerary part of this analysis, I picked 4 cities close by in the same country that someone may want to go to on vacation. I picked Coahuayana, Lazaro Cardenas, Acapulco, Alpoyeca in MX. Using the Google API I created a travel map for the where there is the starting point, 3 additional stops, and then the ending point being the same place as the starting point. 
 
+![Vacation Itinerary](https://github.com/ericajini/World_Weather_Analysis/blob/main/Vaction_Itinerary/WeatherPy_travel_map.png)
+
 ![Vacation Itinerary](https://github.com/ericajini/World_Weather_Analysis/blob/main/Vaction_Itinerary/WeatherPy_travel_map_markers.png)
